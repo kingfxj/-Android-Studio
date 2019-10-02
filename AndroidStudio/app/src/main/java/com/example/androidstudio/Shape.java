@@ -4,6 +4,8 @@ public abstract class Shape {
     private int x;
     private int y;
 
+    private shapeColor = "blue;"
+
     public void setX(int x) {
         this.x = x;
     }
