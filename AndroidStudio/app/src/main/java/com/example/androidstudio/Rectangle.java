@@ -1,3 +1,3 @@
 package com.example.androidstudio;
 
-public Rectangle extends Shate {}
+public class Rectangle extends Shape {}
