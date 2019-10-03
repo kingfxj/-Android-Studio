@@ -1,2 +1,0 @@
-pulic class Star extends Shape{
-}
