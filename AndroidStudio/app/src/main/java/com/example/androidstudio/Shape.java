@@ -3,6 +3,7 @@ package com.example.androidstudio;
 public abstract class Shape {
     private int x;
     private int y;
+    private String color = "blue";
 
     public void setX(int x) {
         this.x = x;
