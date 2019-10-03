@@ -3,7 +3,9 @@ package com.example.androidstudio;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "blue";
+
+    private String colour = "$PUT_YOUR_CHOICE_OF_COLOR";
+
 
     public void setX(int x) {
         this.x = x;
