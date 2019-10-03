@@ -12,10 +12,6 @@ public abstract class Shape {
         this.y = y;
     }
 
-    public void setColor(String color) {
-        this.color = color;
-    }
-
     public int getX() {
         return x;
     }
